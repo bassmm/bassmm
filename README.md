@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Currently an A-Levels student
-- Big ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) and open-source advocate
+- Big Linux and Open-Source advocate
 - Too much time spent on customisation and distro hopping
 
 ### Current Distro:
