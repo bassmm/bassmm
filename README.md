@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Currently an A-Levels student
-- Big Linux and Open-Source advocate
+- Linux user and Open-Source advocate
 - Too much time spent on customisation and distro hopping
 
 ### Current Distro:
