@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- Currently an A-Levels student 
+- Currently an A-Levels student
+- Big ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) and open-source advocate
+- Too much time spent on customisation and distro hopping
+
+### Current Distro:
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### Languages used:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
