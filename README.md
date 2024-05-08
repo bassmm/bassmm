@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - Currently an A-Levels student
+- Offer Holder of: [Bsc Computer Science @ UCL]
 - Linux user and Open-Source advocate
 - Too much time spent on customisation and distro hopping
 
