@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Currently an A-Levels student
-- Offer Holder of: [Bsc Computer Science @ UCL]
+- Studying Bsc Computer Science @ University of Leeds
 - Too much time spent on customisation and distro hopping
 
 ### Current Distro:
