@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- Currently an A-Levels student
 - Studying Bsc Computer Science @ University of Leeds
 - Too much time spent on customisation and distro hopping
 
